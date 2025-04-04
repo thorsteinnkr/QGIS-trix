@@ -5,6 +5,9 @@ Uppsetning á QGIS fyrir landupplýsinganotendur á Íslandi
 Forrit. Sækja nýjustu LTS útgáfu:
 https://qgis.org
 
+Varpanir. Coordinate Reference System (CRS).
+> EPSG:3057 - ISN93 / Lambert 1993
+> EPSG:4326 - WGS 84
 
 Þjónustur. Hægrismella og velja "Load Connections..."
 
