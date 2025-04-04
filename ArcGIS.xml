@@ -1,0 +1,9 @@
+<!DOCTYPE connections>
+<qgsARCGISFEATURESERVERConnections version="1.0">
+    <arcgisfeatureserver authcfg="" name="Landgræðslan" url="https://portal.land.is/server/rest/services" username="" password=""/>
+    <arcgisfeatureserver authcfg="" http-header:referer="" name="Náttúrufræðistofnun" referer="" url="https://gis.ni.is/arcgis/rest/services/" username="" password=""/>
+    <arcgisfeatureserver authcfg="" http-header:referer="" name="Reykjavíkurborg" referer="" url="https://borgarvefsja.reykjavik.is/arcgis/rest/services" username="" password=""/>
+    <arcgisfeatureserver authcfg="" http-header:referer="" name="Skipulagsstofnun" referer="" url="https://luk.skipulag.is/server/rest/services" username="" password=""/>
+    <arcgisfeatureserver authcfg="" http-header:referer="" name="Skógræktin" referer="" url="https://gis.skogur.is/server/rest/services" username="" password=""/>
+    <arcgisfeatureserver authcfg="" http-header:referer="" name="Veitur" referer="" url="https://lukor.or.is/arcgis/rest/services" username="" password=""/>
+</qgsARCGISFEATURESERVERConnections>

@@ -1,0 +1,22 @@
+<!DOCTYPE connections>
+<qgsWFSConnections version="1.1">
+    <wfs pagingenabled="1" pagesize="" invertAxisOrientation="0" ignoreAxisOrientation="0" name="Alþingi" maxnumfeatures="" version="auto" url="https://gis.is/geoserver/althingi/wfs" username="" password=""/>
+    <wfs pagingenabled="1" pagesize="" invertAxisOrientation="0" ignoreAxisOrientation="0" name="Byggðastofnun" maxnumfeatures="" version="auto" url="https://thjonustukort.is/geoserver/wfs" username="" password=""/>
+    <wfs pagingenabled="1" pagesize="" invertAxisOrientation="0" ignoreAxisOrientation="0" name="Embætti landlæknis" maxnumfeatures="" version="auto" url="https://gis.is/geoserver/embaetti_landlaeknis/wfs" username="" password=""/>
+    <wfs pagingenabled="1" pagesize="" invertAxisOrientation="0" ignoreAxisOrientation="0" name="Ferðamálastofa" maxnumfeatures="" version="auto" url="https://gis.is/geoserver/ferdamalastofa/wfs" username="" password=""/>
+    <wfs pagingenabled="1" pagesize="" invertAxisOrientation="0" ignoreAxisOrientation="0" name="Fiskistofa" maxnumfeatures="" version="auto" url="https://gis.is/geoserver/fiskistofa/wfs" username="" password=""/>
+    <wfs pagingenabled="1" pagesize="" invertAxisOrientation="0" ignoreAxisOrientation="0" name="Fjarskiptastofa" maxnumfeatures="" version="auto" url="https://gis.is/geoserver/fjarskiptastofa/wfs" username="" password=""/>
+    <wfs pagingenabled="1" pagesize="" invertAxisOrientation="0" ignoreAxisOrientation="0" name="Forsætisráðuneytið" maxnumfeatures="" version="auto" url="https://gis.is/geoserver/forsaetisraduneytid/wfs" username="" password=""/>
+    <wfs pagingenabled="1" pagesize="" invertAxisOrientation="0" ignoreAxisOrientation="0" name="Haf og vatn" maxnumfeatures="" version="auto" url="https://gis.hafogvatn.is/geoserver/wfs" username="" password=""/>
+    <wfs pagingenabled="1" pagesize="" invertAxisOrientation="0" ignoreAxisOrientation="0" name="Hagstofan" maxnumfeatures="" version="auto" url="https://gis.is/geoserver/Hagstofan/wfs" username="" password=""/>
+    <wfs pagingenabled="default" pagesize="" invertAxisOrientation="0" ignoreAxisOrientation="0" name="Húsnæðis og mannvirkjastofnun" maxnumfeatures="" version="auto" url="https://gis.fasteignaskra.is/geoserver/wfs" username="" password=""/>
+    <wfs pagingenabled="1" pagesize="" invertAxisOrientation="0" ignoreAxisOrientation="0" name="Landbúnaðarháskólinn" maxnumfeatures="" version="auto" url="https://gis.is/geoserver/lbhi/wfs" username="" password=""/>
+    <wfs pagingenabled="1" pagesize="" invertAxisOrientation="0" ignoreAxisOrientation="0" name="Landhelgisgæslan" maxnumfeatures="" version="auto" url="https://gis.is/geoserver/LHG/wfs" username="" password=""/>
+    <wfs pagingenabled="1" pagesize="" invertAxisOrientation="0" ignoreAxisOrientation="0" name="Matvælastofnun" maxnumfeatures="" version="auto" url="https://geoserver.mast.is/geoserver/wfs" username="" password=""/>
+    <wfs pagingenabled="1" pagesize="" invertAxisOrientation="0" ignoreAxisOrientation="0" name="Minjastofnun" maxnumfeatures="" version="auto" url="https://gis.is/geoserver/Minjastofnun/wfs" username="" password=""/>
+    <wfs pagingenabled="1" pagesize="" invertAxisOrientation="0" ignoreAxisOrientation="0" name="Náttúrufræðistofnun og fleiri" maxnumfeatures="" version="auto" url="https://gis.is/geoserver/wfs" username="" password=""/>
+    <wfs pagingenabled="1" pagesize="" invertAxisOrientation="0" ignoreAxisOrientation="0" name="Orkustofnun" maxnumfeatures="" version="auto" url="https://gis.is/geoserver/orkustofnun/wfs" username="" password=""/>
+    <wfs pagingenabled="1" pagesize="" invertAxisOrientation="0" ignoreAxisOrientation="0" name="Vatnajökulsþjóðgarður" maxnumfeatures="" version="auto" url="https://gis.is/geoserver/vjp/wfs" username="" password=""/>
+    <wfs pagingenabled="1" pagesize="" invertAxisOrientation="0" ignoreAxisOrientation="0" name="Vegagerðin" maxnumfeatures="" version="auto" url="https://gagnaveita.vegagerdin.is/geoserver/wfs" username="" password=""/>
+    <wfs pagingenabled="1" pagesize="" invertAxisOrientation="0" ignoreAxisOrientation="0" name="Þjóðskjalasafn" maxnumfeatures="" version="auto" url="https://gis.is/geoserver/thjodskjalasafn/wfs" username="" password=""/>
+</qgsWFSConnections>

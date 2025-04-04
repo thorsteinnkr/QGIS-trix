@@ -1,0 +1,6 @@
+<!DOCTYPE connections>
+<qgsXYZTilesConnections version="1.0">
+    <xyztiles authcfg="" http-header:referer="" name="Bing satellite" tilePixelRatio="0" zmax="18" referer="" url="http://ecn.t3.tiles.virtualearth.net/tiles/a{q}.jpeg?g=1" zmin="0" username="" password=""/>
+    <xyztiles authcfg="" http-header:referer="" name="ESRI satellite" tilePixelRatio="0" zmax="18" referer="" url="https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}" zmin="0" username="" password=""/>
+    <xyztiles authcfg="" http-header:referer="" name="Google satellite" tilePixelRatio="0" zmax="18" referer="" url="https://www.google.cn/maps/vt?lyrs=s@189&amp;gl=cn&amp;x={x}&amp;y={y}&amp;z={z}" zmin="0" username="" password=""/>
+</qgsXYZTilesConnections>
