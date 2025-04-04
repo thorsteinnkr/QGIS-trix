@@ -18,4 +18,4 @@ WFS/OGC Api - Features
 > [WFS.xml](https://github.com/thorsteinnkr/QGIS-trix/blob/main/WFS.xml)
 
 XYZ Tiles 
-> [XYZ tiles.xml]((https://github.com/thorsteinnkr/QGIS-trix/blob/main/XYZ%20tiles.xml))
+> [XYZ tiles.xml](https://github.com/thorsteinnkr/QGIS-trix/blob/main/XYZ%20tiles.xml)
