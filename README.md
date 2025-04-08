@@ -8,6 +8,12 @@ https://qgis.org
 **Varpanir.** Coordinate Reference System (CRS).
 > EPSG:3057 - ISN93 / Lambert 1993
 
+> EPSG:5325 - ISN2004 / Lambert 2004
+
+> EPSG:8088 - ISN2016 / Lambert 2016
+
+> EPSG:3857 - WGS 84 / Pseudo-Mercator
+
 > EPSG:4326 - WGS 84
 
 **Þjónustur.** Hægrismella og velja "Load Connections..."
